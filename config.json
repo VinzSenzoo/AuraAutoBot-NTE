@@ -1,0 +1,16 @@
+{
+  "checkinEnabled": true,
+  "faucetEnabled": true,
+  "swapEnabled": true,
+  "swapRepetitions": 1,
+  "swapZkLTCAmountMin": 0.0001,
+  "swapZkLTCAmountMax": 0.0002,
+  "swapAURAAmountMin": 2,
+  "swapAURAAmountMax": 4,
+  "lpEnabled": true,
+  "lpRepetitions": 1,
+  "lpZkLTCAmountMin": 0.0001,
+  "lpZkLTCAmountMax": 0.0002,
+  "taskEnabled": true,
+  "loopHours": 24
+}
